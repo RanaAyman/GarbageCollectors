@@ -1,6 +1,6 @@
 
 public class Pointer {
- 
+ //
 	private int from;
 	private int to;
 	
