@@ -8,7 +8,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.Scanner;
 import javax.swing.JFileChooser;
-//
+
 public class GC {
 	Map<Integer, Object> heap;
 	Map<Integer, ArrayList<Integer>> pointers;
